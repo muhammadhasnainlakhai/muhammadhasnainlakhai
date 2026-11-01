@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06142E,50:0077B6,100:00E5FF&height=220&section=header&text=Muhammad%20Hasnain&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=CYBER%20SECURITY%20STUDENT%20%7C%20ASPIRING%20ETHICAL%20HACKER&descAlignY=58&descSize=14" width="100%"/>
@@ -77,6 +76,10 @@ I'm passionate about cybersecurity, ethical hacking, and network security. I bel
 
 <a href="https://www.linkedin.com/in/muhammad-hasnain87/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hasnain.cybersec@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/muhammadhasnainlakhai">
