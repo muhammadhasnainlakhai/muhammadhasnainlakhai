@@ -3,8 +3,8 @@
 <!-- Header: Dark Blue & Diamond Red Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:B3001B,100:0B132B&height=220&section=header&text=Muhammad%20Hasnain&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=CYBER%20SECURITY%20STUDENT%20%7C%20ASPIRING%20ETHICAL%20HACKER&descAlignY=58&descSize=14" width="100%"/>
 
-<!-- Typing Animation: Diamond Red Color -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B3001B&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Cybersecurity;Learning+Ethical+Hacking;Building+Hands-on+Security+Labs;Passionate+About+Network+Security" />
+<!-- Typing Animation: FIXED (Naya link laga diya hai) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B3001B&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Cybersecurity;Learning+Ethical+Hacking;Building+Hands-on+Security+Labs;Passionate+About+Network+Security" />
 
 </div>
 
@@ -31,7 +31,6 @@ I'm passionate about cybersecurity, ethical hacking, and network security. I bel
 
 ### Programming Languages
 
-<!-- Default icons, these look best as they are -->
 <img src="https://skillicons.dev/icons?i=python,cpp,java&theme=dark" />
 
 ### Tools & Technologies
@@ -61,14 +60,12 @@ I'm passionate about cybersecurity, ethical hacking, and network security. I bel
 
 <div align="center">
 
-<!-- Naye stable server use kiye hain aur theme 'dark' ki hai taake blue/red ke sath match kare -->
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=muhammadhasnainlakhai&show_icons=true&theme=dark&hide_border=true&rank_icon=github&title_color=B3001B&icon_color=B3001B&text_color=FFFFFF" />
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammadhasnainlakhai&layout=compact&theme=dark&hide_border=true&title_color=B3001B&text_color=FFFFFF" />
 
 <br/><br/>
 
-<!-- Streak Stats ko bhi theme di hai -->
 <img width="70%" src="https://streak-stats.demolab.com?user=muhammadhasnainlakhai&theme=dark&hide_border=true&ring=B3001B&fire=B3001B&currStreakLabel=FFFFFF" />
 
 </div>
