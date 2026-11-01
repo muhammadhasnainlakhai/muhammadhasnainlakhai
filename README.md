@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Header -->
+<!-- Header: Dark Blue & Diamond Red Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:B3001B,100:0B132B&height=220&section=header&text=Muhammad%20Hasnain&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=CYBER%20SECURITY%20STUDENT%20%7C%20ASPIRING%20ETHICAL%20HACKER&descAlignY=58&descSize=14" width="100%"/>
 
-<!-- Typing Animation (Bright Red) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=D32F2F&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Cybersecurity;Learning+Ethical+Hacking;Building+Hands-on+Security+Labs;Passionate+About+Network+Security" />
+<!-- Typing Animation: FIXED (Naya link laga diya hai) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B3001B&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Cybersecurity;Learning+Ethical+Hacking;Building+Hands-on+Security+Labs;Passionate+About+Network+Security" />
 
 </div>
 
@@ -60,14 +60,13 @@ I'm passionate about cybersecurity, ethical hacking, and network security. I bel
 
 <div align="center">
 
-<!-- Transparent Stats: Light aur Dark dono mein perfect -->
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=muhammadhasnainlakhai&show_icons=true&hide_border=true&rank_icon=github&title_color=D32F2F&icon_color=D32F2F&text_color=808080" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=muhammadhasnainlakhai&show_icons=true&theme=dark&hide_border=true&rank_icon=github&title_color=B3001B&icon_color=B3001B&text_color=FFFFFF" />
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammadhasnainlakhai&layout=compact&hide_border=true&title_color=D32F2F&text_color=808080" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammadhasnainlakhai&layout=compact&theme=dark&hide_border=true&title_color=B3001B&text_color=FFFFFF" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=muhammadhasnainlakhai&hide_border=true&ring=D32F2F&fire=D32F2F&currStreakLabel=D32F2F&sideLabels=808080" />
+<img width="70%" src="https://streak-stats.demolab.com?user=muhammadhasnainlakhai&theme=dark&hide_border=true&ring=B3001B&fire=B3001B&currStreakLabel=FFFFFF" />
 
 </div>
 
@@ -82,7 +81,7 @@ I'm passionate about cybersecurity, ethical hacking, and network security. I bel
 </a>
 
 <a href="mailto:hasnain.cybersec@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D32F2F?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-B3001B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/muhammadhasnainlakhai">
@@ -97,7 +96,7 @@ I'm passionate about cybersecurity, ethical hacking, and network security. I bel
 
 ### Learn. Build. Secure. Repeat.
 
-<!-- Footer -->
+<!-- Footer: Dark Blue & Diamond Red Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:B3001B,100:0B132B&height=120&section=footer" width="100%"/>
 
 </div>
